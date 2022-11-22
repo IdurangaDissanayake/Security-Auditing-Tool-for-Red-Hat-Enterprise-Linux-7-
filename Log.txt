@@ -1,0 +1,47 @@
+11/23/2022 3:48:42 AM	[INFO]	:	Program started
+11/23/2022 3:49:13 AM	[INPUT]	:	User Entered Student Count: 4
+11/23/2022 3:49:13 AM	[PROCESS]	:	Created the 'student' array
+11/23/2022 3:49:13 AM	[PROCESS]	:	Created the 'studentTotalMarks' array
+11/23/2022 3:49:13 AM	[PROCESS]	:	Students.addData() method loaded successfully
+11/23/2022 3:49:17 AM	[INPUT]	:	User Entered Name: Vinura
+11/23/2022 3:49:30 AM	[INPUT]	:	User Entered Maths Marks: 60
+11/23/2022 3:49:34 AM	[INPUT]	:	User Entered English Marks: 62
+11/23/2022 3:49:40 AM	[INPUT]	:	User Entered Science Marks: 89
+11/23/2022 3:49:46 AM	[INPUT]	:	User Entered IT Marks: 55
+11/23/2022 3:49:46 AM	[PROCESS]	:	Students.calculateTotal() method loaded successfully
+11/23/2022 3:49:46 AM	[PROCESS]	:	Total marks calculated successfully
+11/23/2022 3:49:46 AM	[PROCESS]	:	New object created for student 'Student' in 'students' array
+11/23/2022 3:49:46 AM	[PROCESS]	:	Students.addData() method loaded successfully
+11/23/2022 3:50:10 AM	[INPUT]	:	User Entered Name: Apsara
+11/23/2022 3:50:20 AM	[INPUT]	:	User Entered Maths Marks: 90
+11/23/2022 3:50:22 AM	[INPUT]	:	User Entered English Marks: 67
+11/23/2022 3:50:24 AM	[INPUT]	:	User Entered Science Marks: 52
+11/23/2022 3:50:27 AM	[INPUT]	:	User Entered IT Marks: 67
+11/23/2022 3:50:27 AM	[PROCESS]	:	Students.calculateTotal() method loaded successfully
+11/23/2022 3:50:27 AM	[PROCESS]	:	Total marks calculated successfully
+11/23/2022 3:50:27 AM	[PROCESS]	:	New object created for student 'Student' in 'students' array
+11/23/2022 3:50:27 AM	[PROCESS]	:	Students.addData() method loaded successfully
+11/23/2022 3:50:30 AM	[INPUT]	:	User Entered Name: Ashen
+11/23/2022 3:50:33 AM	[INPUT]	:	User Entered Maths Marks: 45
+11/23/2022 3:50:36 AM	[INPUT]	:	User Entered English Marks: 98
+11/23/2022 3:50:39 AM	[INPUT]	:	User Entered Science Marks: 78
+11/23/2022 3:50:42 AM	[INPUT]	:	User Entered IT Marks: 89
+11/23/2022 3:50:42 AM	[PROCESS]	:	Students.calculateTotal() method loaded successfully
+11/23/2022 3:50:42 AM	[PROCESS]	:	Total marks calculated successfully
+11/23/2022 3:50:42 AM	[PROCESS]	:	New object created for student 'Student' in 'students' array
+11/23/2022 3:50:42 AM	[PROCESS]	:	Students.addData() method loaded successfully
+11/23/2022 3:50:48 AM	[INPUT]	:	User Entered Name: Hashini
+11/23/2022 3:50:51 AM	[INPUT]	:	User Entered Maths Marks: 65
+11/23/2022 3:50:53 AM	[INPUT]	:	User Entered English Marks: 65
+11/23/2022 3:50:54 AM	[INPUT]	:	User Entered Science Marks: 56
+11/23/2022 3:50:57 AM	[INPUT]	:	User Entered IT Marks: 67
+11/23/2022 3:50:57 AM	[PROCESS]	:	Students.calculateTotal() method loaded successfully
+11/23/2022 3:50:57 AM	[PROCESS]	:	Total marks calculated successfully
+11/23/2022 3:50:57 AM	[PROCESS]	:	New object created for student 'Student' in 'students' array
+11/23/2022 3:50:57 AM	[PROCESS]	:	'studentTotalMarks' array sorted successfully
+11/23/2022 3:50:57 AM	[PROCESS]	:	Ranks calculated successfully
+11/23/2022 3:50:57 AM	[PROCESS]	:	Students.getBestSubject() method loaded successfully
+11/23/2022 3:50:57 AM	[PROCESS]	:	Students.getBestSubject() method loaded successfully
+11/23/2022 3:50:57 AM	[PROCESS]	:	Students.getBestSubject() method loaded successfully
+11/23/2022 3:50:57 AM	[PROCESS]	:	Students.getBestSubject() method loaded successfully
+11/23/2022 3:50:57 AM	[Data could not be written to the CSV file]	:	
